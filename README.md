@@ -1,4 +1,4 @@
-# SHOPNOVA Landing Page
+# COLONKODED Landing Page
 
 ## Setup Instructions
 
